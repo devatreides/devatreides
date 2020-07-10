@@ -8,7 +8,7 @@ I'm Tom Benevides, a Web Developer and Bsc. in Computer Science who is passionat
 
 - 🔭 I’m currently working with web systems, API microservices, frontend projects.
 - 🌱 For now, I'm learning UI/UX design, Flutter and Statistics.
-- 💬 Ask me about: tech, DC, The Lord of the Rings and other books.
+- 💬 Ask me about: tech, DC universe, The Lord of the Rings and other books.
 -  ⚡ Technologies: PostgreSQL, PHP/Laravel, Javascript stack (NodeJS, ReactJS, React Native), CI/CD (GitlabCI/Github Actions), Clouds (AWS/Digital Ocean). 
 \
 \
