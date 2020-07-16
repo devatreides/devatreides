@@ -1,5 +1,5 @@
 # Tom Benevides
-[![Linkedin Badge](https://img.shields.io/badge/-tombenevides-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomfbenevides/?locale=en_US)](https://www.linkedin.com/in/tomfbenevides/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-tomfbenevides-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomfbenevides/?locale=en_US)](https://www.linkedin.com/in/tomfbenevides/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-eltonfelixbenevides@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonfelixbenevides@gmail.com)](mailto:eltonfelixbenevides@gmail.com)
 [![Devto Badge](https://img.shields.io/badge/-tombenevides-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/tombenevides)](https://dev.to/tombenevides)
 
