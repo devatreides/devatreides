@@ -4,7 +4,7 @@
 [![Devto Badge](https://img.shields.io/badge/-tombenevides-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/tombenevides)](https://dev.to/tombenevides)
 
 ### Hey everyone , 
-I'm Tom Benavides, Web Developer and Bsc. in Computer Science who is a bit of a nerd in programming and other IT-related subjects.
+I'm Tom Benevides, Web Developer and Bsc. in Computer Science who is a bit of a nerd in programming and other IT-related subjects.
 
 - 🔭 I’m currently working with web systems, API microservices, frontend projects.
 - 🌱 For now, I'm learning UI/UX design, Flutter and Elixir. 
