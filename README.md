@@ -7,7 +7,7 @@
 I'm Tom Benevides, Web Developer and Bsc. in Computer Science who is a bit of a nerd in programming and other IT-related subjects.
 
 - 🔭 I’m currently working with web systems, API microservices, DevOps projects.
-- 🌱 For now, I'm studying AWS cloud ecosystem, TailwindCSS and Coroutines. 
+- 🌱 For now, I'm studying AWS cloud ecosystem, TailwindCSS and Remix. 
 - 💬 Ask me about: tech, DC universe, The Lord of the Rings or Star Wars.
 -  ⚡ Technologies: PostgreSQL/MariaDB, PHP(Laravel), Javascript stack (NodeJS, ReactJS/NextJS, React Native), CI/CD (GitlabCI/Github Actions), Clouds (AWS/Digital Ocean), IaC (Terraform/Ansible)
 \
