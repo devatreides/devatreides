@@ -4,7 +4,7 @@
 [![Devto Badge](https://img.shields.io/badge/-tombenevides-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/tombenevides)](https://dev.to/tombenevides)
 
 ### Hey everyone , 
-I'm Tom Benevides, Software Engineer and Bsc. in Computer Science who is a bit of a nerd in programming and other IT-related subjects.
+I'm Tom Benevides, software engineer and Bsc. in Computer Science who is a bit of a nerd in programming and other IT-related subjects.
 
 - 🔭 I’m currently working with web development and DevOps projects.
 - 🌱 For now, I'm studying AWS cloud ecosystem, PHP and Rust. 
