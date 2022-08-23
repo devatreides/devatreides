@@ -4,12 +4,12 @@
 [![Devto Badge](https://img.shields.io/badge/-tombenevides-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/tombenevides)](https://dev.to/tombenevides)
 
 ### Hey everyone , 
-I'm Tom Benevides, Web Developer and Bsc. in Computer Science who is a bit of a nerd in programming and other IT-related subjects.
+I'm Tom Benevides, Software Engineer and Bsc. in Computer Science who is a bit of a nerd in programming and other IT-related subjects.
 
-- 🔭 I’m currently working with web systems, API microservices, DevOps projects.
-- 🌱 For now, I'm studying AWS cloud ecosystem, NextJS and project management. 
+- 🔭 I’m currently working with web development and DevOps projects.
+- 🌱 For now, I'm studying AWS cloud ecosystem, PHP and Rust. 
 - 💬 Ask me about: tech, DC universe, The Lord of the Rings or Star Wars.
--  ⚡ Technologies: PostgreSQL/MariaDB, PHP(Laravel), Javascript padawan (some experiments in NodeJS and ReactJS/NextJS), CI/CD (GitlabCI/Github Actions), Clouds (AWS/Digital Ocean), IaC (Terraform/Ansible)
+-  ⚡ Technologies: PostgreSQL/MariaDB, PHP, Laravel, Javascript (some experiments with NodeJS and ReactJS/NextJS), CI/CD (GitlabCI/Github Actions), Clouds (AWS/Digital Ocean), IaC padawan (Terraform/Ansible)
 \
 \
 \.
