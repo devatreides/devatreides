@@ -8,7 +8,7 @@ I'm Tom Benevides, software engineer and Bsc. in Computer Science who is a bit o
 
 - 🔭 I’m currently working with web development and DevOps projects.
 - 🌱 For now, I'm studying AWS cloud ecosystem, PHP and Rust. 
-- 💬 Ask me about: tech, DC universe, The Lord of the Rings or Star Wars.
+- 💬 Ask me about: tech, Dune, The Lord of the Rings or Star Wars.
 -  ⚡ Technologies: PostgreSQL/MariaDB, PHP, Laravel, Javascript (some experiments with NodeJS and ReactJS/NextJS), CI/CD (GitlabCI/Github Actions), Clouds (AWS/Digital Ocean), IaC padawan (Terraform/Ansible)
 \
 \
