@@ -34,7 +34,7 @@ Hey ho! I'm Tom or [**@devatreides**](https://twitter.com/devatreides) o/
 
 I'm a dev who tries to share knowledge with other people, discuss new things in communities, answer questions and when my depression allows me, write/record some tutorials. I wanna try *Learning in public* someday, but I think I need to take baby steps, so maybe you'll see me on Twitch here and there... or maybe not o.o.
 
-I have experience with DevOps, Network Administration, System Development and Back-end webdev. My main knowledge in tech are **PHP**, **Shell**, **Javascript**, **Docker**, **HCL**, **Networks**. I'm currently studying **Rust**, **Statistics** and **Algorithm theory**.
+I have experience with DevOps, Network Administration, System Development and Back-end webdev. My main knowledge in tech are **PHP**, **Shell**, **Javascript**, **Docker**, **HCL**, **Networks**. I'm currently studying **Rust**, **Statistics** and <br>**Algorithm theory**.
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@devatreides">
