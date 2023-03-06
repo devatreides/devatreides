@@ -1,17 +1,57 @@
-# Tom Benevides
-[![Linkedin Badge](https://img.shields.io/badge/-tombenevides-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tombenevides/?locale=en_US)](https://www.linkedin.com/in/tombenevides/?locale=en_US)
-[![Gmail Badge](https://img.shields.io/badge/-eltonfelixbenevides@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonfelixbenevides@gmail.com)](mailto:eltonfelixbenevides@gmail.com)
-[![Devto Badge](https://img.shields.io/badge/-tombenevides-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/tombenevides)](https://dev.to/tombenevides)
+<h1 align="center"> Tom Benevides </h1>
 
-### Hey everyone , 
-I'm Tom Benevides, software engineer and B. Sc. in Computer Science who is a bit of a nerd in programming and other IT-related subjects.
+    
+<div align="center">
+<b>Software Engineer | Content creator?? | Tolkien fan | Procrastination Wizard </b>
+<br>
+<br>
 
-- 🔭 I’m currently working with web development and DevOps projects.
-- 🌱 For now, I'm studying AWS cloud ecosystem, PHP and Rust. 
-- 💬 Ask me about: tech, Dune, The Lord of the Rings or Star Wars.
--  ⚡ Technologies: PostgreSQL/MariaDB, PHP, Laravel, Javascript (some experiments with NodeJS and ReactJS/NextJS), CI/CD (GitlabCI/Github Actions), Clouds (AWS/Digital Ocean), IaC padawan (Terraform/Ansible)
-\
-\
-\.
+<blockquote>
+    <p><i>
+        "A wizard is never late, nor is he early, he arrives precisely when he means to." - Gandalf, the Gray 
+    </i></p>
+</blockquote>
+</div>
 
-#### "A wizard is never late, nor is he early, he arrives precisely when he means to." - Gandalf, the Gray 
+<div align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=devatreides">
+        <img src="https://img.shields.io/twitter/follow/devatreides?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+</div>
+
+---
+
+<div align="right" style="margin:auto">
+     <a href="https://github.com/tombenevides">
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tombenevides&hide=html,jupyter%20notebook&langs_count=6&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&title_color=4a86d1&custom_title=My%20favorite%20languages"
+       alt="Most used languages" align="right">
+    </a>
+</div>
+
+
+Hey ho! I'm Tom or [**@devatreides**](https://twitter.com/devatreides) o/
+
+I'm a dev who tries to share knowledge with other people, discuss new things in communities, answer questions and when my depression allows me, write/record some tutorials. I wanna try *Learning in public* someday, but I think I need to take baby steps, so maybe you'll see me on Twitch here and there... or maybe not o.o.
+
+I have experience with DevOps, Network Administration, System Development and Back-end webdev. My main knowledge in tech are **PHP**, **Shell**, **Javascript**, **Docker**, **HCL**, **Networks**. I'm currently studying **Rust**, **Statistics** and **Algorithm theory**.
+
+<div align="right" style="margin:auto">
+    <a href="https://wakatime.com/@devatreides">
+        <img width="330em" src="https://github-readme-stats.vercel.app/api/wakatime?username=devatreides&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
+    </a>
+</div>
+
+For now, I'm working as a _Software Engineer_ at [Refuturiza](https://www.refuturiza.com.br). 
+
+---
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devatreides)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tombenevides)
+[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://devatreides.hashnode.dev/)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devatreides)
+[![Opendor.me](https://img.shields.io/badge/Opendor.me-100000?style=for-the-badge&logo=github&logoColor=white)](https://opendor.me/@tombenevides)
+
+</div>
