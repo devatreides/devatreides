@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b>Software Engineer | Content creator?? | Tolkien fan | Procrastination Wizard </b>
+<b>Software Engineer | Content creator?? | Tolkien fan | lazy Open Sourcerer :mage_man: </b>
 <br>
 <br>
 
