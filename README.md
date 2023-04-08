@@ -18,6 +18,9 @@
         <img src="https://img.shields.io/twitter/follow/devatreides?style=social&logo=twitter"
         alt="follow on Twitter">
     </a>
+    <a href="https://www.twitch.tv/devatreides">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/devatreides?style=social">
+    </a>
 </div>
 
 ---
@@ -50,6 +53,7 @@ For now, I'm working as a _Software Engineer_ at [Refuturiza](https://www.refutu
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devatreides)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tombenevides)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/vcwild)
 [![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://devatreides.hashnode.dev/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devatreides)
 [![Opendor.me](https://img.shields.io/badge/Opendor.me-100000?style=for-the-badge&logo=github&logoColor=white)](https://opendor.me/@tombenevides)
