@@ -45,7 +45,7 @@ I have experience with DevOps, Network Administration, System Development and Ba
     </a>
 </div>
 
-For now, I'm working as a _Software Engineer_ at [Refuturiza](https://www.refuturiza.com.br). 
+For now, I'm working as a _Software Engineer_ at [Konfetti](https://gokonfetti.com). 
 
 ---
 
