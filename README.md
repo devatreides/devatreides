@@ -36,7 +36,11 @@
 Hey ho! I'm Tom or [**@devatreides**](https://twitter.com/devatreides) o/
 
 
-I have experience with DevOps, Network Administration, System Development and Back-end webdev. My main knowledge in tech are **PHP**, **Shell**, **Javascript**, **Docker**, **HCL**, **Networks**. I'm currently studying **Rust** and **Math**.
+I have experience with DevOps, Network Administration, System Development and Back-end webdev. My main knowledge in tech are **PHP**, **Shell**, **Javascript**, **Docker**, **HCL**, **Networks**.
+
+I'm currently studying **German**, **λ-calculus** and **Type Theory**.
+
+When I have energy, I like to write some articles about cases that I found interesting or cases that could be useful to someone else besides me.
 
 <div align="right" style="margin:auto">
     <a href="https://wakatime.com/@devatreides">
