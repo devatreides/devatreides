@@ -2,9 +2,6 @@
 
     
 <div align="center">
-<b>Software Engineer | Content creator?? | Tolkien fan | lazy Open Sourcerer :mage_man: </b>
-<br>
-<br>
 
 <blockquote>
     <p><i>
@@ -25,40 +22,13 @@
 
 ---
 
-<div align="right" style="margin:auto">
-     <a href="https://github.com/tombenevides">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devatreides&hide=html,blade,CSS&hide_border=true&layout=compact&show_icons=true&line_height=27&langs_count=10&theme=transparent&custom_title=My%20favorite%20languages"
-       alt="Most used languages" align="right">
-    </a>
-</div>
-
-
-Hey ho! I'm Tom or [**@devatreides**](https://twitter.com/devatreides) o/
-
-
-I have experience with DevOps, Network Administration, System Development and Back-end webdev. My main knowledge in tech are **PHP**, **Shell**, **Javascript**, **Docker**, **HCL**, **Networks**.
-
-I'm currently studying **German**, **λ-calculus** and **Type Theory**.
-
-When I have energy, I like to write some articles about cases that I found interesting or cases that could be useful to someone else besides me.
-
-<div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@devatreides">
-        <img width="330em" src="https://github-readme-stats.vercel.app/api/wakatime?username=devatreides&theme=transparent&hide_border=true&hide=markdown,html&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
-    </a>
-</div>
-
-For now, I'm working as a _Software Engineer_ at [Konfetti](https://gokonfetti.com). 
-
----
-
 <div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/devatreides)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tombenevides)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/devatreides)
-[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://devatreides.hashnode.dev/)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/devatreides)
-[![Opendor.me](https://img.shields.io/badge/Opendor.me-100000?style=for-the-badge&logo=github&logoColor=white)](https://opendor.me/@devatreides)
-
+    <a href="https://github.com/tombenevides">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=devatreides&layout=compact&theme=transparent"
+       alt="Most used languages">
+    </a>
+     <a href="https://github.com/tombenevides">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devatreides&hide=html,blade,CSS&hide_border=true&layout=compact&show_icons=true&theme=transparent&custom_title=Used%20languages"
+       alt="Most used languages">
+    </a>
 </div>
